@@ -1,0 +1,3 @@
+*.cpp filter=git-crypt diff=git-crypt
+include/* filter=git-crypt diff=git-crypt
+src/* filter=git-crypt diff=git-crypt
